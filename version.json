@@ -1,1 +1,5 @@
-
+{
+  "version": "1.1.0",
+  "url": "https://github.com/TUUSUARIO/actualizaciones-miapp/releases/download/v1.1.0/MiApp.exe",
+  "changelog": "Se agregó módulo de inventario y mejoras de rendimiento."
+}
