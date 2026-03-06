@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Compucamo/Actualizar_Beargsm/releases/download/v1.1.0/BearGsmTool.exe",
-  "changelog": "Se agregó módulo de inventario y mejoras de rendimiento."
+ "version": "1.0.1",
+ "url": "https://github.com/Compucamo/Actualizar_Beargsm/releases/download/v1.0.1/update.zip",
+ "changelog": "Corrección en módulo Motorola y mejoras en conexión ADB."
 }
